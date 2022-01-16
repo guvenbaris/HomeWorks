@@ -1,0 +1,15 @@
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\bin\Debug\net5.0\MyAnswers.exe
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\bin\Debug\net5.0\MyAnswers.deps.json
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\bin\Debug\net5.0\MyAnswers.runtimeconfig.json
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\bin\Debug\net5.0\MyAnswers.runtimeconfig.dev.json
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\bin\Debug\net5.0\MyAnswers.dll
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\bin\Debug\net5.0\ref\MyAnswers.dll
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\bin\Debug\net5.0\MyAnswers.pdb
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\obj\Debug\net5.0\MyAnswers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\obj\Debug\net5.0\MyAnswers.AssemblyInfoInputs.cache
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\obj\Debug\net5.0\MyAnswers.AssemblyInfo.cs
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\obj\Debug\net5.0\MyAnswers.csproj.CoreCompileInputs.cache
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\obj\Debug\net5.0\MyAnswers.dll
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\obj\Debug\net5.0\ref\MyAnswers.dll
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\obj\Debug\net5.0\MyAnswers.pdb
+C:\Users\Barış\source\repos\DERSLER\MyAnswers\obj\Debug\net5.0\MyAnswers.genruntimeconfig.cache
